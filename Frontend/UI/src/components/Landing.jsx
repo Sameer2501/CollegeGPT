@@ -103,9 +103,8 @@
 
 //   export default Landing;
   import React from "react";
-  import RotatingText from "./Rotatingtext";
+  import RotatingText from "./RotatingText";
   import ClickSpark from './ClickSpark';
-  import StarBorder from "./StarBorder";
   import TextType from "./TextType";
   import { useNavigate } from 'react-router-dom';
   import Img from '../assets/sviett.png';
