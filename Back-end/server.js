@@ -9,7 +9,11 @@ const cors = require('cors');
 
 const app = express();
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors({
+  origin: "https://college-gpt-dmi3.vercel.app",
+  methods: ["GET", "POST"]
+}));
+
 
 app.post('/webhook', async (req, res) => {
   const userQuestion = req.body.question;
