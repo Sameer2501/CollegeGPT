@@ -1,0 +1,335 @@
+{
+  "institution": {
+    "name": "Swami Vivekanand Institute of Engineering & Technology (SVIET)",
+    "group_name": "Swami Vivekanand Group of Institutes (SVGOI)",
+    "history": [
+      {
+        "year": 2005,
+        "establishments": [
+          "Swami Vivekanand College of Pharmacy (SVCP)",
+          "Swami Vivekanand College of Education (SVCE)"
+        ]
+      },
+      {
+        "year": 2010,
+        "establishments": [
+          "Swami Vivekanand Polytechnic College (SVPC)"
+        ]
+      },
+      {
+        "year": 2012,
+        "establishments": [
+          "Swami Vivekanand Faculty of Information Technology & Business Management",
+          "Swami Vivekanand Industrial Training Centre (SVITC)"
+        ]
+      },
+      {
+        "year": 2014,
+        "establishments": [
+          "Swami Vivekanand College of Faculty Management & Technology"
+        ]
+      },
+      {
+        "year": 2017,
+        "establishments": [
+          "Swami Vivekanand College of Management & Technology (SVCMT) under MRSPTU"
+        ]
+      },
+      {
+        "year": 2021,
+        "establishments": [
+          "Swami Vivekanand College of Law"
+        ]
+      }
+    ],
+    "statistics": {
+      "international_students": "35,000+",
+      "full_time_students": "50,000+",
+      "states_represented": 28,
+      "nationalities": "75+",
+      "faculty_count": "250+",
+      "campus_size": "25+ acres",
+      "global_alumni": "25,000+",
+      "awards": "25+ national/international",
+      "students": {
+        "international": "35,000+",
+        "full_time": "50,000+"
+      },
+      "diversity": {
+        "states_represented": 28,
+        "nationalities": "75+"
+      }
+    },
+    "key_features": [
+      {
+        "title": "Academic Excellence",
+        "description": "State-of-the-art facilities and dedicated faculty mentors supporting your educational journey"
+      },
+      {
+        "title": "Vibrant Campus Life",
+        "description": "A lively campus with diverse activities, clubs, and events ensures holistic development"
+      },
+      {
+        "title": "Innovation Hub",
+        "description": "Modern teaching methodologies, hands-on projects, and state-of-the-art facilities"
+      }
+    ]
+  },
+  "academics": {
+    "programs": {
+      "engineering": ["B.Tech", "M.Tech"],
+      "pharmacy": ["B.Pharm", "Pharm.D", "M.Pharm"],
+      "computer_applications": ["BCA", "MCA"],
+      "hotel_management": ["BHMCT", "MHMCT"],
+      "paramedical": ["BPT", "B.Sc Nursing"],
+      "business": ["BBA", "MBA"],
+      "law": ["BA LLB", "LLB"],
+      "education": ["B.Ed", "M.Ed"],
+      "diploma": ["Engineering", "Pharmacy"],
+      "iti": ["Welder", "Plumbing"]
+    },
+    "teaching_methodology": [
+      "Project-based learning",
+      "Industry-aligned curriculum",
+      "Research opportunities",
+      "Entrepreneurship programs"
+    ]
+  },
+  "admissions": {
+    "process": [
+      {
+        "step": 1,
+        "description": "Online application at sviet.ac.in"
+      },
+      {
+        "step": 2,
+        "description": "SVIET-EEE entrance exam"
+      },
+      {
+        "step": 3,
+        "description": "Document verification"
+      },
+      {
+        "step": 4,
+        "description": "Fee payment"
+      }
+    ],
+    "scholarships": [
+      {
+        "name": "Academic Merit",
+        "criteria": "60%+ marks",
+        "amount": "Up to 100% tuition waiver"
+      },
+      {
+        "name": "Sports Scholarship",
+        "criteria": "State/national level player",
+        "amount": "50-100% waiver"
+      },
+      {
+        "name": "EWS Scholarship",
+        "criteria": "Family income <6 LPA",
+        "amount": "Up to 100% waiver"
+      }
+    ],
+    "important_dates": {
+      "application_deadline": "August 15, 2025",
+      "entrance_exam": "June 2025",
+      "counseling": "July 2025"
+    },
+    "fee_structure": {
+      "btech": {
+        "per_semester": "₹52,500",
+        "total": "₹4.2 Lakhs"
+      },
+      "mba": {
+        "per_semester": "₹40,000",
+        "total": "₹2.4 Lakhs"
+      },
+      "bpharm": {
+        "per_semester": "₹62,500",
+        "total": "₹5 Lakhs"
+      }
+    }
+  },
+  "placements": {
+    "overview": {
+      "motto": "Arise, Awake & Achieve!",
+      "highlights": {
+        "offer_letters": "3,000+",
+        "highest_package": "50 LPA",
+        "placements": "1000+ in 250+ companies",
+        "session": "2023-24",
+        "award": "The Best Placement College in North India",
+        "highest_package": "60 LPA",
+        "average_package": "6.5 LPA",
+        "placement_rate": "96%",
+        "recruiting_companies": 286,
+        "students_placed": 3000
+      },
+      "description": "Bridging the gap between industry & Academia. At SVIET, the Placement department constantly works towards making learning more pragmatic and applicable.",
+      "philosophy": "The placement activities are for the students and by the students. SVGOI has been successful in adding more companies to its list of recruiters in recent years."
+    },
+    "leadership": {
+      "director": {
+        "name": "Mr. Shubham Garg",
+        "title": "Director Placements",
+        "message": "Our aim is to provide Placements & Corporate Interface for the students and to make them aware about job opportunities."
+      }
+    },
+    "goals": {
+      "vision": "Best Campus Experience, Best Placements and Best Culture",
+      "mission": {
+        "description": "The organization aims to fortify its bonds with industries through robust campus connections.",
+        "key_points": [
+          "Industry partnerships",
+          "Student development",
+          "Placement facilitation"
+        ]
+      }
+    },
+    "success_stories": {
+      "alumni": [
+        {
+          "name": "AVINASH VERMA",
+          "package": "50 LPA",
+          "role": "Alumni",
+          "company": "Microsoft"
+        },
+        {
+          "name": "MOON MANDAL",
+          "package": "11 LPA",
+          "role": "Student",
+          "company": "TCS"
+        },
+        {
+          "name": "ANKIT KUMAR",
+          "package": "27 LPA",
+          "role": "Alumni",
+          "company": "Amazon"
+        }
+      ],
+      "achievements": {
+        "dreams_fulfilled": "12,000+",
+        "companies_visited": "350+ per year"
+      }
+    },
+    "opportunities": {
+      "drives": {
+        "title": "Latest Placement Drives",
+        "description": "Stepping into Your Future with Confidence! Our placement drives open doors to top-tier companies."
+      },
+      "exposure": {
+        "title": "Industrial Exposure",
+        "activities": ["Visits", "Training", "Guidance"],
+        "benefits": "Transform students into professionals"
+      }
+    },
+    "top_recruiters": [
+      "Microsoft",
+      "Amazon",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Capgemini"
+    ],
+    "training_process": [
+      "Technical skill development",
+      "Soft skills training",
+      "Mock interviews",
+      "Industry visits"
+    ]
+  },
+  "campus": {
+    "features": [
+      {
+        "title": "Academic Excellence",
+        "description": "State-of-the-art facilities and dedicated faculty mentors supporting your educational journey"
+      },
+      {
+        "title": "Vibrant Campus Life",
+        "description": "A lively campus with diverse activities, clubs, and events ensures holistic development"
+      },
+      {
+        "title": "Innovation Hub",
+        "description": "Modern teaching methodologies, hands-on projects, and state-of-the-art facilities"
+      }
+    ],
+    "facilities": [
+      "24/7 Library",
+      "Smart Classrooms",
+      "Sports Complex",
+      "Hostels",
+      "Cafeteria",
+      "Medical Center"
+    ],
+    "activities": [
+      {
+        "type": "Technical",
+        "events": ["Hackathons", "Coding competitions"]
+      },
+      {
+        "type": "Cultural",
+        "events": ["Music festivals", "Dance performances"]
+      },
+      {
+        "type": "Sports",
+        "events": ["Cricket", "Basketball", "Athletics"]
+      }
+    ],
+    "clubs": [
+      "Google Developer Student Club",
+      "Entrepreneurship Cell",
+      "Literary Society",
+      "Drama Club"
+    ],
+    "location": {
+      "city": "Chandigarh",
+      "advantages": [
+        {
+          "title": "Educational Hub",
+          "description": "Home to renowned educational institutions offering diverse academic programs and research opportunities."
+        },
+        {
+          "title": "Serene Environment",
+          "description": "Experience the tranquility and picturesque surroundings of Chandigarh, nestled amidst the Shivalik"
+        }
+      ]
+    }
+  },
+  "international": {
+    "student_demographics": {
+      "countries": 20,
+      "students": "1000+",
+      "cultures": "50+"
+    },
+    "support_services": [
+      "Visa assistance",
+      "Airport pickup",
+      "Hostel allocation",
+      "Language support",
+      "Cultural orientation"
+    ],
+    "exchange_programs": [
+      "Student exchange",
+      "Faculty exchange",
+      "Research collaborations"
+    ]
+  },
+  "contact": {
+    "address": "Village Ramnagar, Near Banur, Tehsil Rajpura, District Patiala, Punjab",
+    "phone": [
+      "1800-120-1200 (Toll Free)",
+      "01762-507888",
+      "+91-9465233333"
+    ],
+    "email": [
+      "info@sviet.ac.in",
+      "admission@sviet.ac.in"
+    ],
+    "departments": {
+      "admissions": "94652-33333",
+      "placements": "8556001844",
+      "international": "+91 88474 88524"
+    }
+  }
+}

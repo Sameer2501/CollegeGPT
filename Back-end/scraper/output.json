@@ -1,0 +1,73 @@
+{
+  "college_name": "SVGOI | Best Institution in North India",
+  "platform": "The Uniques Community",
+  "tagline": "Discover your community, join us and thrive",
+  "mission": "To uplift educational standards globally and make education available to everyone, everywhere.",
+  "relationship_with_svgoi": {
+    "is_sviet_initiative": true,
+    "program_name": "The Uniques Batch",
+    "role": "An elite incubation and talent program within SVIET",
+    "impact": {
+      "companies_launched": 15,
+      "special_batches": {
+        "branches": ["CSE", "ECE"],
+        "students_per_branch": "30-60",
+        "placement": "100% assured placement"
+      }
+    }
+  },
+  "programs_offered": {
+    "focus": "Innovation, entrepreneurship, and career readiness",
+    "network_size": "5 million+ innovators",
+    "uniques_batch": {
+      "goal": "Transform students into business consultants and entrepreneurs",
+      "curriculum": [
+        "Professional Communication",
+        "Time Management",
+        "Workplace Etiquette"
+      ],
+      "incubation_support": {
+        "funding": true,
+        "workspace": true
+      }
+    }
+  },
+  "community_engagement": {
+    "ambassador_program": {
+      "description": "Empowers leaders to grow community reach",
+      "benefits": [
+        "Exclusive events",
+        "Networking opportunities"
+      ],
+      "model": "Decentralized and peer-led"
+    },
+    "statistics": {
+      "ambassadors_worldwide": 500,
+      "workshops_conducted": 100,
+      "community_rating": 4.9
+    }
+  },
+  "events_and_activities": [
+    {
+      "event_name": "Holi Celebration",
+      "type": "Festival",
+      "description": "Celebrate the vibrant festival of colors"
+    }
+  ],
+  "contact_information": {
+    "email": "info@theuniques.in",
+    "phone": "+44 2030262516"
+  },
+  "image_summary": "No images scraped directly from theuniques.in. However, images on the SVIET website reflect values like academic excellence, innovation, campus life, and student success.",
+  "recommendations": {
+    "marketing": "Use data from the platform's success stories and statistics to craft strong promotional content.",
+    "program_development": "Analyze skill demands from events and courses to evolve the curriculum accordingly.",
+    "competitive_analysis": "Benchmark The Uniques against other global talent incubators.",
+    "alumni_engagement": "Strengthen alumni networks through ambassador-led engagement."
+  },
+  "key_takeaways": [
+    "Strong placement assurance is a key differentiator.",
+    "Programs emphasize both technical and soft skills.",
+    "Community-driven growth via ambassador programs and clubs."
+  ]
+}
