@@ -47,7 +47,7 @@ app.post('/webhook', async (req, res) => {
     res.status(500).json({ error: "Gemini API error", details: error.response?.data || error.message });
   }
 });
-
+const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => {
   console.log(`Server running on ${PORT}`);
 });
