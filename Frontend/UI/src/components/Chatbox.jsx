@@ -32,7 +32,7 @@ const Chatbox = () => {
     setStreamedAnswer('');
 
     try {
-      const response = await axios.post('https://collegegpt-6.onrender.com/webhook', {
+      const response = await axios.post('https://collegegpt-7.onrender.com/webhook', {
         question: currentQuestion,
       });
 
