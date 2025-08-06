@@ -192,7 +192,7 @@ const Chatbox = () => {
   return (
     // 📱 Fix height issue on mobile browsers using 100dvh instead of h-screen
     <div
-      className="relative min-h-[100dvh] w-full flex flex-col bg-cover bg-center bg-fixed"
+      className="relative h-screen w-full flex flex-col bg-cover bg-center "
       style={{ backgroundImage: `url(${img})` }}
     >
       <div className='mb-[80px]'>
