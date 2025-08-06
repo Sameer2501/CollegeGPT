@@ -1,499 +1,398 @@
 {
- 
-  "institution": {
+  "greeting": "Hi! 👋 Ask me anything about Swami Vivekanand Institute of Engineering & Technology (SVIET).",
+  "basic_info": {
     "name": "Swami Vivekanand Institute of Engineering & Technology (SVIET)",
-    "group_name": "Swami Vivekanand Group of Institutes (SVGOI)",
-    "history": [
-      {
-        "year": 2005,
-        "establishments": [
-          "Swami Vivekanand College of Pharmacy (SVCP)",
-          "Swami Vivekanand College of Education (SVCE)"
-        ]
-      },
-      {
-        "year": 2010,
-        "establishments": [
-          "Swami Vivekanand Polytechnic College (SVPC)"
-        ]
-      },
-      {
-        "year": 2012,
-        "establishments": [
-          "Swami Vivekanand Faculty of Information Technology & Business Management",
-          "Swami Vivekanand Industrial Training Centre (SVITC)"
-        ]
-      },
-      {
-        "year": 2014,
-        "establishments": [
-          "Swami Vivekanand College of Faculty Management & Technology"
-        ]
-      },
-      {
-        "year": 2017,
-        "establishments": [
-          "Swami Vivekanand College of Management & Technology (SVCMT) under MRSPTU"
-        ]
-      },
-      {
-        "year": 2021,
-        "establishments": [
-          "Swami Vivekanand College of Law"
-        ]
-      }
-    ],
-    "statistics": {
-      "international_students": "35,000+",
-      "full_time_students": "50,000+",
-      "states_represented": 28,
-      "nationalities": "75+",
-      "faculty_count": "250+",
-      "campus_size": "25+ acres",
-      "global_alumni": "25,000+",
-      "awards": "25+ national/international",
-      "students": {
-        "international": "35,000+",
-        "full_time": "50,000+"
-      },
-      "diversity": {
-        "states_represented": 28,
-        "nationalities": "75+"
-      },
-      "experience_highlights": [
-        {
-          "value": "250+",
-          "label": "Faculties Available",
-          "frequency": "Every Year"
-        },
-        {
-          "value": "25+",
-          "label": "Acres",
-          "detail": "Campus"
-        },
-        {
-          "value": "25000+",
-          "label": "Global Alumni",
-          "detail": "Reach"
-        },
-        {
-          "value": "1000+",
-          "label": "International Students",
-          "detail": "Present"
-        },
-        {
-          "value": "25+",
-          "label": "National & International",
-          "detail": "Awards Ranking"
-        },
-        {
-          "value": "350+",
-          "label": "Companies Visit",
-          "frequency": "Per Year"
-        },
-        {
-          "value": "5000+",
-          "label": "Placed Students",
-          "detail": "In 250+ Companies"
-        },
-        {
-          "value": "100%",
-          "label": "Scholarship",
-          "detail": "Programs"
-        },
-        {
-          "value": "45 Lacs+",
-          "label": "Entrepreneurship",
-          "detail": "Funding"
-        }
-      ]
-    },
-    "key_features": [
-      {
-        "title": "Academic Excellence",
-        "description": "State-of-the-art facilities and dedicated faculty mentors supporting your educational journey"
-      },
-      {
-        "title": "Vibrant Campus Life",
-        "description": "A lively campus with diverse activities, clubs, and events ensures holistic development"
-      },
-      {
-        "title": "Innovation Hub",
-        "description": "Modern teaching methodologies, hands-on projects, and state-of-the-art facilities"
-      }
-    ]
+    "group": "SVGOI (Swami Vivekanand Group of Institutes)",
+    "location": "Village Ramnagar, Near Banur, Rajpura, Punjab",
+    "city": "Chandigarh",
+    "established": 2005,
+    "campus_size": "25+ acres",
+    "students": "50,000+",
+    "international_students": "1000+ from 20+ countries",
+    "faculty": "250+",
+    "global_alumni": "25,000+",
+    "awards": "25+ National & International Awards"
   },
-  "academics": {
-    "programs": {
-      "engineering": ["B.Tech", "M.Tech"],
-      "pharmacy": ["B.Pharm", "Pharm.D", "M.Pharm"],
-      "computer_applications": ["BCA", "MCA"],
-      "hotel_management": ["BHMCT", "MHMCT"],
-      "paramedical": ["BPT", "B.Sc Nursing"],
-      "business": ["BBA", "MBA"],
-      "law": ["BA LLB", "LLB"],
-      "education": ["B.Ed", "M.Ed"],
-      "diploma": ["Engineering", "Pharmacy"],
-      "iti": ["Welder", "Plumbing"]
-    },
-    "teaching_methodology": [
-      "Project-based learning",
-      "Industry-aligned curriculum",
-      "Research opportunities",
-      "Entrepreneurship programs"
-    ]
+  "courses": {
+    "undergraduate": ["B.Tech", "BCA", "BBA", "B.Pharm", "BHMCT", "BA LLB", "B.Ed", "BPT", "B.Sc Nursing"],
+    "postgraduate": ["M.Tech", "MBA", "MCA", "M.Pharm", "MHMCT", "M.Ed"],
+    "diploma": ["Diploma in Engineering", "Diploma in Pharmacy"]
+  },
+  "fees": {
+    "B.Tech CSE": "₹52,500/sem | ₹4.2 Lakhs total",
+    "MBA": "₹40,000/sem | ₹2.4 Lakhs total",
+    "B.Pharm": "₹62,500/sem | ₹5 Lakhs total"
   },
   "admissions": {
-    "overview": {
-      "tagline": "Simplified, Comprehensive & Transparent",
-      "description": "We are delighted that you are considering joining our institution, known for its academic excellence and vibrant community."
-    },
-    "process": [
-      {
-        "step": 1,
-        "description": "Visit sviet.ac.in and complete the online application form for admission."
-      },
-      {
-        "step": 2,
-        "description": "Upon submission, you will receive a confirmation email containing your unique Application ID."
-      },
-      {
-        "step": 3,
-        "description": "Prepare for and appear in the SVIET-EEE (Entrance Exam Eligibility Test-cum-Scholarship Exam)"
-      },
-      {
-        "step": 4,
-        "description": "Check the SVIET website or your email for the announcement of SVIET-EEE results and your name on the merit list"
-      },
-      {
-        "step": 5,
-        "description": "Shortlisted candidates will undergo an English language proficiency test."
-      },
-      {
-        "step": 6,
-        "description": "Participate in group discussions or personal interviews to assess interpersonal skills and subject knowledge."
-      },
-      {
-        "step": 7,
-        "description": "Depending on the course, additional tests may be conducted to assess specific skills."
-      },
-      {
-        "step": 8,
-        "description": "Carry all original mark sheets and essential credentials for verification"
-      },
-      {
-        "step": 9,
-        "description": "Upon successful completion of tests and interviews, receive a provisional offer letter from SVIET."
-      },
-      {
-        "step": 10,
-        "description": "Complete the fee payment as per instructions in the offer letter."
-      },
-      {
-        "step": 11,
-        "description": "Receive the final offer letter along with a unique Student PRN."
-      },
-      {
-        "step": 12,
-        "description": "Submit all original documents as per the requirements mentioned in the offer letter."
-      },
-      {
-        "step": 13,
-        "description": "Welcome to SVIET! to begin your academic journey."
-      }
+    "tagline": "Simplified, Transparent & Easy Process",
+    "steps_summary": "Apply online, take SVIET-EEE exam, interview, verification & get offer letter",
+    "key_steps": [
+      "Apply at sviet.ac.in",
+      "Give SVIET-EEE test",
+      "Appear for English & Interview",
+      "Get shortlisted",
+      "Pay fees & receive final offer"
     ],
     "scholarships": [
-      {
-        "name": "Academic Merit",
-        "criteria": "60%+ marks",
-        "amount": "Up to 100% tuition waiver"
-      },
-      {
-        "name": "Sports Scholarship",
-        "criteria": "State/national level player",
-        "amount": "50-100% waiver"
-      },
-      {
-        "name": "EWS Scholarship",
-        "criteria": "Family income <6 LPA",
-        "amount": "Up to 100% waiver"
-      }
+      "Academic (60%+ marks): Up to 100% off",
+      "Sports (State/National): 50-100% off",
+      "EWS (<6 LPA income): Up to 100% off"
     ],
     "important_dates": {
-      "application_deadline": "August 15, 2025",
-      "entrance_exam": "June 2025",
+      "last_date": "15 Aug 2025",
+      "exam": "June 2025",
       "counseling": "July 2025"
     },
-    "fee_structure": {
-      "btech": {
-        "per_semester": "₹52,500",
-        "total": "₹4.2 Lakhs"
-      },
-      "mba": {
-        "per_semester": "₹40,000",
-        "total": "₹2.4 Lakhs"
-      },
-      "bpharm": {
-        "per_semester": "₹62,500",
-        "total": "₹5 Lakhs"
-      }
-    },
-    "cta": {
-      "text": "Apply Now",
-      "link": "https://sviet.ac.in/admissions"
-    }
+    "apply_link": "https://sviet.ac.in/admissions"
   },
   "placements": {
-    "overview": {
-      "motto": "Arise, Awake & Achieve!",
-      "highlights": {
-        "offer_letters": "3,000+",
-        "highest_package": "60 LPA",
-        "average_package": "6.5 LPA",
-        "placements": "1000+ in 250+ companies",
-        "placement_rate": "96%",
-        "recruiting_companies": 286,
-        "students_placed": 3000,
-        "session": "2023-24",
-        "award": "The Best Placement College in North India"
-      },
-      "description": "Bridging the gap between industry & Academia. At SVIET, the Placement department constantly works towards making learning more pragmatic and applicable.",
-      "philosophy": "The placement activities are for the students and by the students. SVGOI has been successful in adding more companies to its list of recruiters in recent years."
+    "motto": "Arise, Awake & Achieve!",
+    "placement_rate": "96%",
+    "offers": "3000+",
+    "companies": "250+",
+    "top_package": "60 LPA",
+    "average_package": "6.5 LPA",
+    "top_recruiters": ["Microsoft", "Amazon", "TCS", "Infosys", "Wipro", "Capgemini"],
+    "highlights": {
+      "students_placed": "1000+",
+      "director": "Mr. Shubham Garg",
+      "vision": "Best Placements & Campus Experience",
+      "mission": "Industry collaboration, Student growth, Better Jobs"
     },
-    "leadership": {
-      "director": {
-        "name": "Mr. Shubham Garg",
-        "title": "Director Placements",
-        "message": "Our aim is to provide Placements & Corporate Interface for the students and to make them aware about job opportunities."
-      }
-    },
-    "goals": {
-      "vision": "Best Campus Experience, Best Placements and Best Culture",
-      "mission": {
-        "description": "The organization aims to fortify its bonds with industries through robust campus connections.",
-        "key_points": [
-          "Industry partnerships",
-          "Student development",
-          "Placement facilitation"
-        ]
-      }
-    },
-    "success_stories": {
-      "alumni": [
-        {
-          "name": "AVINASH VERMA",
-          "package": "50 LPA",
-          "role": "Alumni",
-          "company": "Microsoft"
-        },
-        {
-          "name": "MOON MANDAL",
-          "package": "11 LPA",
-          "role": "Student",
-          "company": "TCS"
-        },
-        {
-          "name": "ANKIT KUMAR",
-          "package": "27 LPA",
-          "role": "Alumni",
-          "company": "Amazon"
-        }
-      ],
-      "achievements": {
-        "dreams_fulfilled": "12,000+",
-        "companies_visited": "350+ per year"
-      }
-    },
-    "opportunities": {
-      "drives": {
-        "title": "Latest Placement Drives",
-        "description": "Stepping into Your Future with Confidence! Our placement drives open doors to top-tier companies."
-      },
-      "exposure": {
-        "title": "Industrial Exposure",
-        "activities": ["Visits", "Training", "Guidance"],
-        "benefits": "Transform students into professionals"
-      }
-    },
-    "top_recruiters": [
-      "Microsoft",
-      "Amazon",
-      "TCS",
-      "Infosys",
-      "Wipro",
-      "Capgemini"
-    ],
-    "training_process": [
-      "Technical skill development",
-      "Soft skills training",
-      "Mock interviews",
-      "Industry visits"
+    "success_stories": [
+      {"name": "Avinash Verma", "company": "Microsoft", "package": "50 LPA"},
+      {"name": "Moon Mandal", "company": "TCS", "package": "11 LPA"},
+      {"name": "Ankit Kumar", "company": "Amazon", "package": "27 LPA"}
     ]
   },
-  "campus": {
-    "features": [
-      {
-        "title": "Academic Excellence",
-        "description": "State-of-the-art facilities and dedicated faculty mentors supporting your educational journey"
-      },
-      {
-        "title": "Vibrant Campus Life",
-        "description": "A lively campus with diverse activities, clubs, and events ensures holistic development"
-      },
-      {
-        "title": "Innovation Hub",
-        "description": "Modern teaching methodologies, hands-on projects, and state-of-the-art facilities"
-      }
-    ],
-    "facilities": [
-      "24/7 Library",
-      "Smart Classrooms",
-      "Sports Complex",
-      "Hostels",
-      "Cafeteria",
-      "Medical Center"
-    ],
-    "activities": [
-      {
-        "type": "Technical",
-        "events": ["Hackathons", "Coding competitions"]
-      },
-      {
-        "type": "Cultural",
-        "events": ["Music festivals", "Dance performances"]
-      },
-      {
-        "type": "Sports",
-        "events": ["Cricket", "Basketball", "Athletics"]
-      }
-    ],
-    "clubs": [
-      "Google Developer Student Club",
-      "Entrepreneurship Cell",
-      "Literary Society",
-      "Drama Club"
-    ],
-    "location": {
-      "city": "Chandigarh",
-      "advantages": [
-        {
-          "title": "Educational Hub",
-          "description": "Home to renowned educational institutions offering diverse academic programs and research opportunities."
-        },
-        {
-          "title": "Serene Environment",
-          "description": "Experience the tranquility and picturesque surroundings of Chandigarh, nestled amidst the Shivalik"
-        }
-      ]
+  "campus_life": {
+    "features": ["Academic Excellence", "Innovation Hub", "Vibrant Campus Life"],
+    "facilities": ["Library", "Smart Classrooms", "Hostels", "Sports Complex", "Cafeteria", "Medical Center"],
+    "clubs": ["Google Developer Student Club", "Entrepreneurship Cell", "Literary Society", "Drama Club"],
+    "events": ["Hackathons", "Tech Fests", "Music Nights", "Cultural Fests", "Sports Tournaments"]
+  },
+  "teaching_methodology": [
+    "Project-based learning",
+    "Industry-aligned curriculum",
+    "Research opportunities",
+    "Entrepreneurship programs"
+  ],
+  "international": {
+    "students": "1000+ from 20+ countries",
+    "support": ["Visa help", "Airport pickup", "Hostel allocation", "Language & Cultural support"],
+    "exchange_programs": ["Student Exchange", "Faculty Exchange", "Research Collaborations"]
+  },
+  "the_uniques_community": {
+    "name": "The Uniques Batch - Elite Program by SVIET",
+    "goal": "Make students entrepreneurs & business consultants",
+    "branches": ["CSE"],
+    "students_per_branch": "30-60",
+    "placement": "100% assured",
+    "skills_taught": ["Communication", "Time Management", "Workplace Etiquette"],
+    "incubation": {
+      "funding": "Yes",
+      "workspace": "Yes",
+      "startups_launched": 15
+    },
+    "ambassador_program": {
+      "desc": "Grow the community globally",
+      "benefits": ["Exclusive Events", "Networking"],
+      "model": "Peer-led and decentralized"
+    },
+    "community_stats": {
+      "network": "5 Million+",
+      "ambassadors": 500,
+      "workshops": 100,
+      "rating": "4.9/5"
     }
   },
-  "international": {
-    "student_demographics": {
-      "countries": 20,
-      "students": "1000+",
-      "cultures": "50+"
-    },
-    "support_services": [
-      "Visa assistance",
-      "Airport pickup",
-      "Hostel allocation",
-      "Language support",
-      "Cultural orientation"
-    ],
-    "exchange_programs": [
-      "Student exchange",
-      "Faculty exchange",
-      "Research collaborations"
-    ]
-  },
+  "history": [
+    {"year": 2005, "opened": ["SVCP", "SVCE"]},
+    {"year": 2010, "opened": ["SVPC"]},
+    {"year": 2012, "opened": ["SVITC", "IT & Business Faculty"]},
+    {"year": 2014, "opened": ["Faculty of Management"]},
+    {"year": 2017, "opened": ["SVCMT (under MRSPTU)"]},
+    {"year": 2021, "opened": ["College of Law"]}
+  ],
   "contact": {
-    "address": "Village Ramnagar, Near Banur, Tehsil Rajpura, District Patiala, Punjab",
-    "phone": [
-      "1800-120-1200 (Toll Free)",
-      "01762-507888",
-      "+91-9465233333"
-    ],
-    "email": [
-      "info@sviet.ac.in",
-      "admission@sviet.ac.in"
-    ],
+    "phone": ["1800-120-1200", "01762-507888", "+91-9465233333"],
+    "email": ["info@sviet.ac.in", "admission@sviet.ac.in"],
     "departments": {
       "admissions": "94652-33333",
       "placements": "8556001844",
       "international": "+91 88474 88524"
     }
   },
-   "the_uniques_community": {
-    "college_name": "SVGOI | Best Institution in North India",
-    "platform": "The Uniques Community",
-    "tagline": "Discover your community, join us and thrive",
-    "mission": "To uplift educational standards globally and make education available to everyone, everywhere.",
-    "relationship_with_svgoi": {
-      "is_sviet_initiative": true,
-      "program_name": "The Uniques Batch",
-      "role": "An elite incubation and talent program within SVIET",
-      "impact": {
-        "companies_launched": 15,
-        "special_batches": {
-          "branches": ["CSE", "ECE"],
-          "students_per_branch": "30-60",
-          "placement": "100% assured placement"
-        }
-      }
+    "social_media": {
+        "website": "https://sviet.ac.in",
+        "facebook": "https://www.facebook.com/svietofficial",
+        "instagram": "https://www.instagram.com/svietofficial",
+        "linkedin": "https://www.linkedin.com/company/svietofficial",
+        "twitter": "https://twitter.com/svietofficial"
     },
-    "programs_offered": {
-      "focus": "Innovation, entrepreneurship, and career readiness",
-      "network_size": "5 million+ innovators",
-      "uniques_batch": {
-        "goal": "Transform students into business consultants and entrepreneurs",
-        "curriculum": [
-          "Professional Communication",
-          "Time Management",
-          "Workplace Etiquette"
-        ],
-        "incubation_support": {
-          "funding": true,
-          "workspace": true
-        }
-      }
-    },
-    "community_engagement": {
-      "ambassador_program": {
-        "description": "Empowers leaders to grow community reach",
-        "benefits": [
-          "Exclusive events",
-          "Networking opportunities"
-        ],
-        "model": "Decentralized and peer-led"
-      },
-      "statistics": {
-        "ambassadors_worldwide": 500,
-        "workshops_conducted": 100,
-        "community_rating": 4.9
-      }
-    },
-    "events_and_activities": [
-      {
-        "event_name": "Holi Celebration",
-        "type": "Festival",
-        "description": "Celebrate the vibrant festival of colors"
-      }
+    "the_uniques_batch": {
+    "name": "The Uniques Batch",
+    "for":"CSD Branch (Computer Science & Design)",
+    "description": "An elite program for high-potential students to become business consultants and entrepreneurs",
+    "eligibility": "Selected students with strong academic and extracurricular records",
+    "started": 2022,
+    "initial_size": 14,
+    "mission": "Transform students into skilled business consultants & entrepreneurs",
+    "target_group": "Selected students across branches (e.g., CSE, ECE) with high potential",
+    "program_goals": [
+      "Professional communication & workplace etiquette",
+      "Time & personal effectiveness",
+      "Corporate culture understanding",
+      "Entrepreneurship mindset & business strategy",
+      "Client management & consulting readiness"
     ],
-    "contact_information": {
-      "email": "info@theuniques.in",
-      "phone": "+44 2030262516"
+    "selection_process": [
+      "Written test (aptitude & reasoning)",
+      "Technical round (programming basics)",
+      "Get shortlisted",
+      "Final personal interview"
+    ],
+    "structure": {
+      "duration": "Ongoing (multi-semester)",
+      "training_types": ["Workshops", "Industrial visits", "Live projects", "Mentorship sessions"]
     },
-    "image_summary": "No images scraped directly from theuniques.in. However, images on the SVIET website reflect values like academic excellence, innovation, campus life, and student success.",
-    "recommendations": {
-      "marketing": "Use data from the platform's success stories and statistics to craft strong promotional content.",
-      "program_development": "Analyze skill demands from events and courses to evolve the curriculum accordingly.",
-      "competitive_analysis": "Benchmark The Uniques against other global talent incubators.",
-      "alumni_engagement": "Strengthen alumni networks through ambassador-led engagement."
+    "support": {
+      "incubation_center": "On-campus incubation hub",
+      "funding": "Startup funding support",
+      "workspace": "Co-working / incubation workspace",
+      "network": "Access to industry mentors & alumni"
     },
-    "key_takeaways": [
-      "Strong placement assurance is a key differentiator.",
-      "Programs emphasize both technical and soft skills.",
-      "Community-driven growth via ambassador programs and clubs."
-    ]
-  }
+    "activities": [
+      {"event": "Startup Bootcamp", "type": "Workshop"},
+      {"event": "Entrepreneurship Summit", "type": "Conference"},
+      {"event": "Business Plan Competition", "type": "Competition"},
+      {"event": "Innovation Hackathon", "type": "Hackathon"},
+      {"event": "Global Summit 2024", "type": "Conference"},
+      {"event": "G Ideate Ideathon", "type": "Hackathon"},
+      {"event": "Bharat TechXperience Hackathon", "type": "Hackathon"},
+      {"event": "Coding Competitions", "type": "Competition"}
+    ],
+    "community": {
+      "platform": "The Uniques Community",
+      "global_network": true,
+      "focus": "Entrepreneurship, innovation & leadership"
+    }
+  },
+  "placements_highlights": {
+    "name": "Placements Highlights",
+    "program": "The Uniques Batch",
+    "duration": "Ongoing (multi-semester)",
+    "placement_rate": "90%"
+},
+"batchComparison": {
+    "Normal_CSE": {
+      "name": "Normal CSE Batch",
+      "description": "The standard Computer Science Engineering program followed by most students at Campus",
+      "features": [
+        "Follows standard AICTE CSE curriculum",
+        "General access to labs and faculty",
+        "Open to all students without selection",
+        "Exposure depends on student initiative"
+      ]
+    },
+    "Super_60": {
+      "name": "Super 60 Batch",
+      "description": "An elite, invite-only batch designed to produce top-tier software developers with intense training and placement support.",
+      "features": [
+        "Selected top 60 students ",
+        "Industry-focused curriculum with extra coding hours",
+        "Daily competitive coding + weekly mock interviews",
+        "Dedicated mentors from tech companies",
+        "Aggressive placement training (DSA, system design, etc.)",
+        "Strong placement record in product-based companies"
+      ],
+      "goals": [
+        "Crack top MNCs and product-based startups",
+        "Excel in coding competitions and hackathons"
+      ]
+    },
+    "The_Uniques": {
+      "name": "The Uniques Batch",
+      "description": "A handpicked batch of creative, technical, and entrepreneurial students focused on building innovative solutions and startups.",
+      "features": [
+        "Focus on real-world projects and startup thinking",
+        "Workshops on AI, ML, Web3, and emerging tech",
+        "Mentorship from alumni and industry leaders",
+        "Freedom to explore unconventional paths",
+        "Support for personal branding and freelancing"
+      ],
+      "goals": [
+        "Build portfolios beyond college curriculum",
+        "Launch real startups or open-source projects",
+        "Excel in tech + business fusion roles"
+      ]
+    }
+  },
+  "super60": {
+    "name": "Super 60 Batch (CSE First-Year Elite Group)",
+    "batch_size": "30–60 students each year",
+    "purpose": "Select high‑potential first‑year CSE students for an elite training program",
+    "guarantee": "100% campus placement assurance",
+    "training_modules": [
+      "Advanced Technical Skills (Java, C++, Frontend, Backend)",
+      "Communication & Personality Development",
+      "Logical Reasoning & Quantitative Aptitude",
+      "Latest Software & Manufacturing Techniques",
+      "Graphic Design & Digital Marketing"
+    ],
+    "technicalTrainingRoadmap": {
+        "3rd_Semester": [
+          "Graphic Design fundamentals (Photoshop, Canva, Figma)",
+          "Basic coding logic and problem-solving"
+        ],
+        "4th_Semester": [
+          "Web Development (HTML, CSS, JavaScript)",
+          "Version Control (Git, GitHub)",
+          "DSA begins in C++/Java"
+        ],
+        "5th_Semester": [
+          "Advanced Web Dev (React, Node.js, MongoDB)",
+          "System Design fundamentals",
+          "Mock Interviews start"
+        ],
+        "6th_Semester": [
+          "App Development (Flutter or Android Native)",
+          "Full-stack project work",
+          "Resume Building + LinkedIn Optimization"
+        ],
+        "7th_Semester": [
+          "Interview Process Training (HR + Technical)",
+          "DSA Revision + Core Subjects (OS, DBMS, CN)",
+          "Product-based company preparation"
+        ],
+        "8th_Semester": [
+          "Final Placement Preparation",
+          "On-campus & off-campus interview strategy",
+          "Startup + internship opportunities"
+        ]
+      },
+      "aptitudeAndInterviewFocus": [
+        "Quantitative Aptitude & Logical Reasoning practice every week",
+        "Group discussions and communication skills sessions",
+        "Dedicated mock interview slots with external HRs",
+        "Behavioral questions and HR round coaching"
+      ],
+    "support": {
+      "mentorship": "Industry experts & top faculty",
+      "internships": "Priority access to internships",
+      "career_development": "Special career guidance & practice"
+    },
+    "selection_process": [
+      "Written test (aptitude & reasoning)",
+      "Technical round (programming basics)",
+      "Get shortlisted",
+      "Final personal interview"
+    ],
+    "key_events": [
+      {"date": "March 25 2024", "event": "Induction Program"},
+      {"date": "March 28 2024", "event": "Industrial Visit – Grazitti Interactive"},
+      {"date": "March 19 2024", "event": "Seminar on AI by Primus Software Corp"},
+      {"date": "October 7‑9 2024", "event": "AlumTalks & Skill‑Up Workshop"}
+    ] 
+  },
+  "environment": {
+    "campus": {
+      "size": "25+ acres",
+      "location": "30 km from Chandigarh, along NH‑1, close to Mohali, Panchkula, Ambala & Patiala",
+      "greenery": "Clean, spacious & landscaped with abundant greenery",
+      "buildings": ["Smart classrooms", "Laboratories", "Auditorium"],
+      "safety": {"guards": true, "CCTV": true}
+    },
+    "infrastructure": {
+      "internet": "Free high-speed WiFi campus-wide",
+      "library": "Well-stocked central library with journals & digital resources",
+      "labs": "Industry-standard labs for engineering, pharmacy, IT",
+      "hostels": {"boys": true, "girls": true, "AC/non-AC": true},
+      "cafeteria": "Clean mess and canteen serving tasty hygienic meals",
+      "sports": ["Cricket", "Football", "Badminton", "Gym"]
+    },
+    "atmosphere": {
+      "student_diversity": "Students from across India + international (20+ countries)",
+      "faculty": "Knowledgeable, industry‑experienced teachers using project-based & real-world learning",
+      "clubs_events": true,
+      "culture": "Friendly, supportive, culturally rich community"
+    },
+    "extra": {
+      "developer_community": "GDG on Campus active with hackathons, AI & cloud events",
+      "festivals": ["Global Futures Summit", "Cultural Fests", "Spontania"],
+      "cleanliness": "Campus is neat, safe and well-maintained"
+    }
+  },
+  "svietCampus": {
+    "blocks": {
+      "A Block": {
+        "description": "Admission Cell and Library",
+        "associatedDepartments": ["General Admission", "Library for B.Tech students"]
+      },
+      "B Block": {
+        "description": "Computer Science & BCA Department",
+        "associatedDepartments": ["CSE Batch", "BCA Batch"]
+      },
+      "C Block": {
+        "description": "Medical & BSc Courses",
+        "associatedDepartments": ["Uniques Batch","Medical Courses", "B.Sc Programs"]
+      },
+      "D Block": {
+        "description": "Applied Sciences",
+        "associatedDepartments": ["B.Tech First Year (Foundation Subjects)"]
+      },
+      "E Block": {
+        "description": "Pharmacy Block",
+        "associatedDepartments": ["Pharm.D", "B.Pharma"]
+      },
+      "F Block": {
+        "description": "Additional Pharmacy Block",
+        "associatedDepartments": ["Pharm.D", "B.Pharma"]
+      },
+      "G Block": {
+        "description": "Mechanical Engineering Block",
+        "associatedDepartments": ["Mechanical Engineering"]
+      },
+      "H Block": {
+        "description": "Management & Arts",
+        "associatedDepartments": ["MBA", "BA", "Super 60 Batch"]
+      },
+      "I Block": {
+        "description": "Girls Hostel",
+        "associatedDepartments": ["Girls Hostel Facility"]
+      },
+      "J Block": {
+        "description": "Boys Hostel",
+        "associatedDepartments": ["Boys Hostel Facility"]
+      }
+    }
+  },
+   "hostel": {
+    "boysHostel": {
+      "block": "J Block",
+      "name": "Boys Hostel",
+      "feesPerSem": 37500,
+      "feesPerYear": 75000,
+      "rules": {
+        "stayDuringCollegeHours": "Students are not allowed to sit in the hostel during college hours.",
+        "meetings": "Boys and girls are not allowed to meet each other after 5 PM.",
+        "electricAppliances": "Use of kettles or any electric appliances to make food is strictly prohibited."
+      }
+    },
+    "girlsHostel": {
+      "block": "I Block",
+      "name": "Girls Hostel",
+      "feesPerYear": 37500,
+      "rules": {
+        "stayDuringCollegeHours": "Students are not allowed to sit in the hostel during college hours.",
+        "outsideTime": "Girls are not allowed to go outside the hostel after 8 PM.",
+        "meetings": "Boys and girls are not allowed to meet each other after 5 PM.",
+        "electricAppliances": "Use of kettles or any electric appliances to make food is strictly prohibited."
+      }
+    }
+  },
+  "fallback": "I'm here to help! 😊 Ask about placements, fees, courses, admissions, campus life, or anything else about SVIET."
+  
+ 
 }
+
