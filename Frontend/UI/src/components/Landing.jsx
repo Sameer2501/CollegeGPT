@@ -168,7 +168,7 @@ import bgMain from "../assets/bgmain.jpg"
               />
             </div>
             <p className="text-sm sm:text-base md:text-xl mt-2 text-black">
-              Ask anything about your college
+              Ask anything about  college
             </p>
 
             {/* Rotating Topics */}
