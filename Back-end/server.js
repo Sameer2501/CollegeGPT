@@ -10,7 +10,7 @@ const cors = require('cors');
 const app = express();
 app.use(bodyParser.json());
 app.use(cors({
-  origin: "https://college-gpt-dmi3.vercel.app",
+  origin:[ "https://college-gpt-dmi3.vercel.app",'http://localhost:5173'],
   methods: ["GET", "POST"]
 }));
 

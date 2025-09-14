@@ -391,6 +391,216 @@
       }
     }
   },
+  
+  "group_of_institutes": "Swami Vivekanand Group of Institutes",
+  "name": "SVIET",
+  "accreditation": "NAAC Accredited Institution",
+  "awards": [
+    {
+      "award_name": "1st Best Institution in North India for Execution of Industry & Academia Curriculum",
+      "awarding_body": "WEBCON 2025"
+    },
+    {
+      "award_name": "Best Engineering College In North India",
+      "awarding_body": "ASSOCHAM"
+    },
+    {
+      "award_name": "Best Placement College In North India",
+      "awarding_body": null
+    },
+    {
+      "award_name": "Best Pharmacy College In Punjab",
+      "awarding_body": null
+    }
+  ],
+  "campus_details": {
+    "size": "28 acres",
+    "hostel_capacity": "1000+ Students",
+    "facilities": [
+      "6 Libraries",
+      "Dedicated Research Block",
+      "State of art Laboratories",
+      "Smart Classrooms",
+      "Indoor & Outdoor Sports Complex",
+      "5+ Cafeterias",
+      "Hundreds of Hi-Tech Labs",
+      "Mini Shopping Complex",
+      "World class fitness centre"
+    ]
+  },
+  "institutions": [
+    {
+      "name": "SVIET",
+      "full_name": "Swami Vivekanand Institute of Engineering and Technology"
+    },
+    {
+      "name": "SVCP",
+      "full_name": "Swami Vivekanand College of Pharmacy"
+    },
+    {
+      "name": "SVFITBM",
+      "full_name": "Swami Vivekanand Faculty of Information Technology & Business Management"
+    },
+    {
+      "name": "SVFTM",
+      "full_name": "Swami Vivekanand Faculty of Technology & Management"
+    },
+    {
+      "name": "SVCE",
+      "full_name": "Swami Vivekanand College of Education"
+    },
+    {
+      "name": "SVCMT",
+      "full_name": "Swami Vivekanand College of Management & Technology"
+    },
+    {
+      "name": "SVPC",
+      "full_name": "Swami Vivekanand Polytechnic College"
+    },
+    {
+      "name": "SVPMC",
+      "full_name": "Swami Vivekanand Paramedical College"
+    },
+    {
+      "name": "SVCL",
+      "full_name": "Swami Vivekanand College of Law"
+    },
+    {
+      "name": "SVITC",
+      "full_name": "Swami Vivekanand Industrial Training Centre"
+    }
+  ],
+  "academic_programs": {
+    "Engineering and Technology": [
+      "B.Tech (CSE/Artificial Intelligence/ECE/EE/ME/Civil)",
+      "M.Tech (CSE/ECE/ME/Civil)"
+    ],
+    "Pharmacy": [
+      "Pharm D",
+      "M.Pharmacy (Pharmaceutics/Pharmacology)",
+      "B.Pharmacy",
+      "D. Pharmacy",
+      "Pharm D(PB)"
+    ],
+    "Hospitality & Catering": [
+      "MHMCT",
+      "BHMCT",
+      "B.Voc-HM"
+    ],
+    "Dietetics & Nutrition": [],
+    "Paramedical": [
+      "B.Sc (Radiology/O.T/MLS/Anesthesia/Optometry/Cardiac Care Tech.)",
+      "M.Sc (Ant. & O.T/MLS (Clinical Biochem./Medical Microbiology/RIT/CCT)",
+      "BPT"
+    ],
+    "Business Studies": [
+      "MBA",
+      "BBA",
+      "M.Com",
+      "B.Com"
+    ],
+    "Basic Sciences": [
+      "M.Sc (Maths/Physics/Chemistry)",
+      "B.Sc (Non Medical)"
+    ],
+    "Education": [
+      "M.Ed",
+      "B.Ed",
+      "M.A Education",
+      "B.A"
+    ],
+    "Diploma": [
+      "CSE",
+      "EE",
+      "ME",
+      "CIVIL",
+      "DMLT"
+    ],
+    "Computer Applications": [
+      "MCA",
+      "BCA",
+      "PGDCA",
+      "B.SC IT"
+    ],
+    "Nursing": [
+      "Diploma Nursing"
+    ],
+    "Law": [
+      "LLB",
+      "BA LLB"
+    ],
+    "ITI": [
+      "WELDER",
+      "PLUMBER",
+      "COPA"
+    ]
+  },
+  "professional_memberships": [
+    "ISTE INSTITUTIONAL MEMBER",
+    "CSI INSTITUTIONAL MEMBER",
+    "IETE INSTITUTIONAL MEMBER",
+    "IEEE STUDENT CHAPTER"
+  ],
+  "placements": {
+    "total_placements": "1200+",
+    "total_companies": "270+",
+    "highest_package": "60 LPA",
+    "average_package": "7 LPA",
+    "highest_packages_by_stream": {
+      "Engineering": "60 LPA",
+      "Business": "29 LPA",
+      "Pharmacy": "25 LPA",
+      "Hospitality": "24 LPA",
+      "Others": "9 LPA"
+    },
+    "average_packages_by_stream": {
+      "Engineering": "7 LPA",
+      "Business": "7.5 LPA",
+      "Pharmacy": "5.5 LPA",
+      "Hospitality": "6 LPA",
+      "Others": "4.5 LPA"
+    },
+    "notable_recruiters": [
+      "Wipro",
+      "Infosys",
+      "Nagarro",
+      "Intelli Paat",
+      "Dixon",
+      "Rev Clerx",
+      "HCL",
+      "goleso",
+      "Tech Mahindra",
+      "Google",
+      "Vedanta",
+      "Globtier",
+      "de facto",
+      "intersoft",
+      "Amazon",
+      "UPL",
+      "Biogenetic",
+      "Accenture",
+      "C ZENTRIX",
+      "John Deere"
+    ]
+  },
+  "entrepreneurship": {
+    "scholarship": "100% Scholarship for involved students",
+    "seed_amount": "Upto 10 Lac Seed Amount to Initiate the Startup"
+  },
+  "international_collaborations": {
+    "count": "40+",
+    "programs": [
+      "Global Certification Courses",
+      "Overseas Campus Visits",
+      "Global Industry Mentors",
+      "Cross Cultural Learning Environment",
+      "International Career Support",
+      "International Internships",
+      "Student Exchange Programs",
+      "Earn While Learn Program"
+    ]
+  },
+  
   "fallback": "I'm here to help! 😊 Ask about placements, fees, courses, admissions, campus life, or anything else about SVIET."
   
  
