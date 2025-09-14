@@ -169,7 +169,7 @@ import bgMain from "../assets/bgmain.jpg"
             </div>
 
             {/* Sub Text */}
-            <p className="text-sm sm:text-base md:text-xl mt-2 text-white">
+            <p className="text-sm sm:text-base md:text-xl mt-2 text-black">
               Ask anything about your college
             </p>
 
